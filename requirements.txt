@@ -1,0 +1,6 @@
+fastapi==0.111.0
+prefect==2.19.5
+pydantic==2.7.4
+requests==2.32.3
+sqlalchemy==2.0.30
+uvicorn==0.28.1
