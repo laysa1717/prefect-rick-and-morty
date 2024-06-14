@@ -18,14 +18,14 @@ O projeto é estruturado utilizando o padrão Clean Architecture, garantindo uma
 
 - Clone o Repositório:
 ```sh
-git clone https://github.com/seu-usuario/prefect-rick-and-morty.git
+git clone https://github.com/laysa1717/prefect-rick-and-morty.git
 cd prefect-rick-and-morty
 ```
 
 - Crie e Ative um Ambiente Virtual:
 ```sh
 python -m venv venv
-source venv/bin/activate  # No Windows use `venv\Scripts\activate`
+source venv/bin/activate 
 ```
 
 - Instale as Dependências:
